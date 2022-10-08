@@ -1,0 +1,27 @@
+﻿body {
+    padding: 0;
+    margin: 10px;
+    color: #000000;
+    font-family: Tahoma;
+    font-size: 12px;
+    line-height: 18px;
+}
+
+td {
+    padding: 0;
+    background-image: url(images/foto3.jpg);
+    width: 350px;
+    height: 144px;
+    float: top;
+}
+
+.link {
+    color: blue;
+    float: right;
+}
+
+section {
+    margin-left: 146px;
+    margin-top: 40px;
+    margin-right: 15px;
+}
